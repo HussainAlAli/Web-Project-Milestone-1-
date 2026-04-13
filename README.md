@@ -49,3 +49,9 @@ Presents the ChefLak team with:
 •	Social media links per member (Instagram, X, LinkedIn)
 •	Company mission statement
 •	Service area note (Khobar, Dammam, Dhahran only)
+
+Student Names And ID: 
+Hussain Ahmed AlAli | 2240000936
+FARES AHMED ALDHASH |  2240004926
+Ahmed AL-Qisoom | 2240005481
+Sultan Bandar Alkhalaf | 2240003003
